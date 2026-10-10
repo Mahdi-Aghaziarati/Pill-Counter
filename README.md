@@ -19,7 +19,7 @@ A professional real-time pill counting application using OpenCV, Tkinter and Pyt
 ## Screenshot
 
 <p align="center">
-  <img src="image/gui.PNG" width="700">
+  <img src="image/gui.png" width="700">
 </p>
 
 ## Requirements
